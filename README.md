@@ -14,7 +14,7 @@ You can use GitHub desktop to do this, or work in CodeSpaces -- ask me if you ha
 - Then push the changes to GitHub.
 6. Go to your site
 - GitHub will automatically publish the index.html file on your GitHub Pages site. 
-- You can view it at https://yourusername.github.io
+- You can view it at https://github.com/drwillielockett/Spring-2025-Artificial-Intel.-Fundamentals-CSC-113-0901-/blob/main/README.md
 7. Customize and add pages
 - Continue adding HTML files, committing, and pushing to GitHub to add more pages.
 - Use a template or CSS framework to customize the design.
